@@ -211,3 +211,12 @@ footer {
 footer a {
   color: fuchsia;
 }
+
+@media screen and (min-width: 767px) {
+  main {
+    font-size: 2rem;
+  }
+  table {
+    margin: 5rem auto;
+  }
+}
